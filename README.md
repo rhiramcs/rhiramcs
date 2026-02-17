@@ -24,10 +24,6 @@
   <a href="https://www.youtube.com/@tippulu2968">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="Join Grup Telegram 
-https://t.me/@ramlimalik">
-    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
 </p>
 
 ---
