@@ -15,17 +15,17 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/safrinnetwork">
+  <a href="https://github.com/rhiramcs">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.facebook.com/safrinnetwork/">
+  <a href="https://www.facebook.com/rhiramcs/">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.youtube.com/@mostechnetwork">
+  <a href="https://www.youtube.com/@tippulu2968">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="Join Grup Telegram 
-https://t.me/+QDz9bvRUZ95hZGY1">
+https://t.me/@ramlimalik">
     <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
