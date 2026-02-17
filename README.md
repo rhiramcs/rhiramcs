@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Safrin 👋</h1>
+<h1 align="center">Hi there, I'm Ramli 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/safrinnetwork">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Petani" alt="Typing SVG" />
+  <a href="https://github.com/rhiramcs">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Petani;Tukang+Service" alt="Typing SVG" />
   </a>
 </p>
 
